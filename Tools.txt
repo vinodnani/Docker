@@ -1,4 +1,4 @@
-docker 
+
 Ansible
 Traefk
 Jiira
